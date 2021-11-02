@@ -5,3 +5,4 @@ A collection of resources for learning about Aerospace Engineering, Physics, and
 
 * [What physics are applied to aerospace engineering?](https://www.engineergirl.org/57963/What-physics-are-applied-to-aerospace-engineering)
 * [Quadcopter - Wikipedia](https://en.wikipedia.org/wiki/Quadcopter)
+* [Aeronautics and Astronautics - MIT OPEN COURSE](https://ocw.mit.edu/courses/aeronautics-and-astronautics/)
